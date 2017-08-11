@@ -1,0 +1,24 @@
+{
+  "name": "(git-test)",
+  "version": "1.0.0",
+  "description": "This is a test diretory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "https://github.com/two-for-five/Web-Development.git",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/two-for-five/Web-Development.git"
+  },
+  "author": "Yifeng Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/two-for-five/Web-Development/issues"
+  },
+  "homepage": "https://github.com/two-for-five/Web-Development#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
