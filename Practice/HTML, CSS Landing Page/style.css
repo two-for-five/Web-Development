@@ -65,18 +65,14 @@ body{
 	display: flex;
 }
 #section-c .box1, #section-c .box3{
-	width: 33%;
+	flex: 1;
 	color: #f4f4f4;
 	background-color: #66c2ff;
 	text-align: center;
 }
 #section-c .box2{
-	width: auto;
+	flex:1;
 	color: #66c2ff;
 	background-color: #f4f4f4;
 	text-align: center;
-}
-
-#section-c .box2 p{
-	margin-top: 10px;
 }
