@@ -29,14 +29,3 @@ function exit(){
 		})
 	}
 }
-// $('#rating-container').mouseout(function(){
-// 	$("#rating-container").find('.rating-hover').removeClass('rating-hover');
-// 	if (click !== null){
-// 		$('.rating-circle').each(function(index){
-// 			if(index <= click){
-// 				$(this).addClass('rating-chosen');
-// 			}
-// 		})
-// 	}
-// })
-
