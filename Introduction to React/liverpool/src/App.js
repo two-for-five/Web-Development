@@ -74,6 +74,7 @@ class App extends Component {
       <div>
         <img id="liverpool" src= "https://jdsports-client-resources.co.uk/jdsports-client-resources/img/2017/0815/fredhopper-desktop-2017-liverpool-55e16b256cc2a7074e1a7649357a90a4.jpg"></img>
         <div className="time">
+          <h1>Since Liverpool Last Won a Trophy</h1>
           <ul className="blocks">
             <li><h2>Year</h2><p>{this.state.years}</p></li>
             <li><h2>Month</h2><p>{this.state.months}</p></li>
